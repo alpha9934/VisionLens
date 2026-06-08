@@ -11,7 +11,7 @@ pinecone==6.0.0
 # Vision / CLIP (CPU-only, compatible with Python 3.13)
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch==2.12.0+cpu
-torchvision==0.20.0+cpu
+torchvision
 transformers==4.44.0
 Pillow==10.4.0
 open_clip_torch
