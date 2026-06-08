@@ -1,0 +1,9 @@
+[server]
+maxUploadSize = 10
+enableXsrfProtection = false
+
+[runner]
+magicEnabled = false
+
+[browser]
+gatherUsageStats = false
